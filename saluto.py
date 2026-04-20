@@ -5,3 +5,6 @@ print(saluta("Mondo"))
 
 def arrivederci(nome): 
     return f"Arrivederci, {nome}!"
+
+def dialogo():
+    pass
